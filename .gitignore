@@ -1,0 +1,12 @@
+target/
+test-results/
+test-output/
+node_modules/
+.idea/
+FleetMatchAutomation.iml
+**/TempClass.java
+.settings/
+.project
+.classpath
+demo.java
+.vscode/
